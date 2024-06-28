@@ -1,7 +1,7 @@
 # VBA-Code-For-Data-Split
 HI,
 
-I made a code to split data on the basis of column number in excel. You have to just download the file and click on the button and select the file from which you want to split data after that just enter the column number on the basis of that your data will split. A folder is created on desktop with data_split name and in that folder there will be multiple subfolder According to the name mention in column number.
+I made a VBA code to split data on the basis of column number in excel. You have to just download the file and click on the button and select the file from which you want to split data after that just enter the column number on the basis of that your data will split. A folder is created on desktop with data_split name and in that folder there will be multiple subfolder According to the name mention in column number.
 
 for example.
 
